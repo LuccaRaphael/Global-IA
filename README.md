@@ -44,10 +44,14 @@ A métrica mAP50(B) aumentou de 0.1 para 0.8, comprovando a alta performance da 
 **Desempenho Consistente em Diferentes Cenários:**
 A métrica mAP50-95(B) aumentou de 0.0 para 0.6, demonstrando a capacidade da IA de manter um bom desempenho em situações com diferentes níveis de sobreposição entre os objetos detectados e a realidade.
 
+----------------------------------------------------------
+
 <img src="imgs\Resultados2.jpg" alt="Resultados2">
 
 **Alta precisão:**
 Taxa de acerto de 92% das espécies
+
+----------------------------------------------------------
 
 ![merogif-ezgif com-video-to-gif-converter](https://github.com/LuccaRaphael/Global-IA/assets/127765063/903f0ca3-62ac-45fd-a2c3-f37f4533078c)
 

@@ -49,14 +49,17 @@ A métrica mAP50-95(B) aumentou de 0.0 para 0.6, demonstrando a capacidade da IA
 <img src="imgs\Resultados2.jpg" alt="Resultados2">
 
 **Alta precisão:**
-Taxa de acerto de 92% das espécies
+Taxa de acerto de 92% das espécies.
 
 ----------------------------------------------------------
 
 ![merogif-ezgif com-video-to-gif-converter](https://github.com/LuccaRaphael/Global-IA/assets/127765063/903f0ca3-62ac-45fd-a2c3-f37f4533078c)
 
 **Grau de Precisão:**
-Alto grau de precisão
+Grau de precisão superior a 70%.
+
+
+----------------------------------------------------------
 
 ### Conclusões
 Os resultados indicam que a IA desenvolvida é uma ferramenta eficaz para a identificação de espécies marinhas ameaçadas. Com uma alta taxa de precisão e rápida resposta, a "Oceano Vivo" tem o potencial de ser um recurso valioso para pescadores e conservacionistas, ajudando a reduzir a captura acidental de espécies em risco e promovendo a conscientização sobre a preservação da vida marinha.

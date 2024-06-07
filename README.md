@@ -10,9 +10,9 @@ Integrantes:
 - LAIS ALVES DA SILVA CRUZ - RM:552258   
 - FABRICIO TORRES ANTONIO - RM:97916  
 
-### Video
+### Vídeo
 
-[Video Global Solution I.A](https://youtu.be/t4EimxNCcBM)
+[Vídeo Oceano Vivo I.A](https://youtu.be/t4EimxNCcBM)
 
 ### Descrição do Problema
 A pesca predatória e a sobrepesca representam uma das maiores ameaças aos ecossistemas marinhos, colocando mais de 90% dos estoques de peixes marinhos em risco. Atualmente, 33,1% desses estoques estão sobre-explorados e em declínio populacional. Esta situação crítica exige medidas urgentes para a conservação da biodiversidade marinha e a sustentabilidade dos recursos pesqueiros. Além dos peixes, muitas outras espécies marinhas, como tartarugas, tubarões e mamíferos marinhos, também enfrentam sérias ameaças devido às atividades humanas, incluindo a pesca, a poluição e a destruição de habitats.
@@ -32,22 +32,27 @@ A plataforma "Oceano Vivo" demonstrou resultados promissores, com uma alta taxa 
 
 <img src="imgs\Resultados.png" alt="Resultados">
 
-**Localização Precisa**
+**Localização Precisa:**
 A métrica val/box_loss varia entre 1.0 e 2.5 o que indica a capacidade da IA de localizar objetos com precisão, mesmo em novos dados.
 
-**Identificação de Recursos Refinada**
+**Identificação de Recursos Refinada:**
 A métrica val/dfl_loss, que varia entre 2.0 e 3.5, indica um refinamento na identificação de recursos visuais, essencial para a precisão do sistema de detecção de objetos.
 
-**Detecção de Objetos Confiável**
+**Detecção de Objetos Confiável:**
 A métrica mAP50(B) aumentou de 0.1 para 0.8, comprovando a alta performance da IA na detecção de objetos com sobreposição de 50% ou mais com a realidade, garantindo resultados confiáveis.
 
-**Desempenho Consistente em Diferentes Cenários**
+**Desempenho Consistente em Diferentes Cenários:**
 A métrica mAP50-95(B) aumentou de 0.0 para 0.6, demonstrando a capacidade da IA de manter um bom desempenho em situações com diferentes níveis de sobreposição entre os objetos detectados e a realidade.
 
 <img src="imgs\Resultados2.jpg" alt="Resultados2">
 
-**Alta precisão**
+**Alta precisão:**
 Taxa de acerto de 92% das espécies
+
+![merogif-ezgif com-video-to-gif-converter](https://github.com/LuccaRaphael/Global-IA/assets/127765063/903f0ca3-62ac-45fd-a2c3-f37f4533078c)
+
+**Grau de Precisão:**
+Alto grau de precisão
 
 ### Conclusões
 Os resultados indicam que a IA desenvolvida é uma ferramenta eficaz para a identificação de espécies marinhas ameaçadas. Com uma alta taxa de precisão e rápida resposta, a "Oceano Vivo" tem o potencial de ser um recurso valioso para pescadores e conservacionistas, ajudando a reduzir a captura acidental de espécies em risco e promovendo a conscientização sobre a preservação da vida marinha.
